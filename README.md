@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/763b01ce-0ee6-41f9-93ae-fcd13037762b
+
+
+
+https://github.com/user-attachments/assets/84c3a6e3-18aa-4faa-bf57-e1f1214e28c9
+
 # LegalEase - AI Legal Document Generator
 
 Streamlit frontend + FastAPI backend + Google Gemini. Generates contracts, NDAs,
