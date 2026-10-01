@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/4247d608-792c-4347-909b-e4b0e160e8b1
+
+
+
 
 # LegalEase - AI Legal Document Generator
 
