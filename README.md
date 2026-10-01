@@ -1,7 +1,5 @@
 
 
-Uploading LegalEaseDEMO.mp4…
-
 
 # LegalEase - AI Legal Document Generator
 
