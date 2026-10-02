@@ -1,8 +1,4 @@
-## 🎥 Demo
 
-Click below to view the LegalEase demonstration:
-
-[▶️ **Watch LegalEase Demo**](https://github.com/Brownie347/LegalEase-1-/blob/main/demo/LegalEaseDEMO.mp4)
 
 # LegalEase - AI Legal Document Generator
 
